@@ -1,0 +1,8 @@
+{
+  "name": "MadadHub - Community Mutual Aid & Help Exchange",
+  "description": "Connect surplus with need. Platform to request urgent community help and offer support with food, clothes, education, medical aid, and essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
